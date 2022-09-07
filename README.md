@@ -7,9 +7,19 @@ With the help of Unity's [Vector Graphics](https://docs.unity3d.com/Packages/com
 
 ## Examples
 
-![Ex1](gifs/samurai.gif)
+![Ex1](Demos/blending.gif)
 
-![Ex2](gifs/game.gif)  
+![Ex2](Demos/samurai.gif) 
+
+![Ex3](Demos/editor-renderer.png) 
+
+![Ex4](Demos/multicolor.png) 
+
+
+## Install dependencies
+
+![install](Demos/install1.png)
+![install](Demos/install2.png)
 
   
 ## Features
